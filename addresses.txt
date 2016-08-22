@@ -9,3 +9,4 @@ newsletter@splunk.com
 info@netsparker.com
 monitor.us@emails.monitis.com
 apj-hp-software@your.hp.com
+vmwareteam@engage.vmware.com
