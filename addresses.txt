@@ -1,0 +1,11 @@
+enterprise@engage.hpe.com
+hppartner@your.hp.com
+hpenterprisesecurityinfo@hp.com
+mswpc@e-mail.microsoft.com
+webcasts@qualys.com
+marketing@tenable.com
+no-reply@qualys.com
+newsletter@splunk.com
+info@netsparker.com
+monitor.us@emails.monitis.com
+apj-hp-software@your.hp.com
