@@ -3,6 +3,7 @@ apj-hp-software@your.hp.com
 enterprise@engage.hpe.com
 hpenterprisesecurityinfo@hp.com
 hppartner@your.hp.com
+info@demand.fortinet.com
 info@netsparker.com
 marketing@tenable.com
 monitor.us@emails.monitis.com
@@ -11,6 +12,7 @@ mswpc@e-mail.microsoft.com
 news@gitlab.com
 newsletter@rebeltech.org
 newsletter@splunk.com
+noreply@mailer.atlassian.com
 no-reply@qualys.com
 recommendations@ifttt.com
 vmwareteam@engage.vmware.com
