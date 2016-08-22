@@ -1,5 +1,7 @@
 alerts@email.skype.com
+apacsales@rapid7.com
 apj-hp-software@your.hp.com
+donottrack@checkpoint.com
 enterprise@engage.hpe.com
 hpenterprisesecurityinfo@hp.com
 hppartner@your.hp.com
@@ -14,6 +16,9 @@ newsletter@rebeltech.org
 newsletter@splunk.com
 noreply@mailer.atlassian.com
 no-reply@qualys.com
+press@checkpoint.com
+press@rapid7.com
+press@us.checkpoint.com
 recommendations@ifttt.com
 vmwareteam@engage.vmware.com
 webcasts@qualys.com
