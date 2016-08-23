@@ -3,6 +3,7 @@ apacsales@rapid7.com
 apj-hp-software@your.hp.com
 donottrack@checkpoint.com
 enterprise@engage.hpe.com
+events@es2.com.au
 hpenterprisesecurityinfo@hp.com
 hppartner@your.hp.com
 info@demand.fortinet.com
